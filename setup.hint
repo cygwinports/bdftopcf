@@ -1,4 +1,4 @@
 category: X11
 requires: cygwin libXfont1
-sdesc: "Xorg Portable Compiled Format font compiler"
-ldesc: "Xorg Portable Compiled Format font compiler"
+sdesc: "X.Org Portable Compiled Format font compiler"
+ldesc: "X.Org Portable Compiled Format font compiler"

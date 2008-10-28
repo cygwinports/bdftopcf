@@ -1,6 +1,6 @@
 bdftopcf
 ------------------------------------------
-Xorg Portable Compiled Format font compiler
+X.Org Portable Compiled Format font compiler
 
 Runtime requirements:
   cygwin-1.5.24-2
