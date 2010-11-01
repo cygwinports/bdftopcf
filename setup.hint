@@ -1,4 +1,4 @@
 category: X11
-requires: libgcc1 libXfont1
+requires: libbz2_1 zlib0
 sdesc: "X.Org Portable Compiled Format font compiler"
 ldesc: "X.Org Portable Compiled Format font compiler"
