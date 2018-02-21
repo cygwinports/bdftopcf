@@ -1,8 +1,8 @@
 inherit xorg
 
 NAME="bdftopcf"
-VERSION=1.0.4
-RELEASE=3
+VERSION=1.1
+RELEASE=1
 CATEGORY="Devel"
 SUMMARY="X bitmap font compiler"
 DESCRIPTION="Bdftopcf is a font compiler for the X server and font server.
